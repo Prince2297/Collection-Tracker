@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">a0c8d6422f22cb50dff619aa6fa4e3f6</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Collection Item","sourceType":"table","tableOrViewName":"x_2129719_collec_0_collection_item","filterQuery":"","id":"tablex_2129719_collec_0_collection_item1786190667820","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"My Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"tablex_2129719_collec_0_collection_item1786190667820","id":"tablex_2129719_collec_0_collection_item17861906678201786190667878","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props>
+        <h>9</h>
+        <name/>
+        <required_translations>[{"comment":"","message":"Collection Item","code":"PAR_DASHBOARD.a0c8d6422f22cb50dff619aa6fa4e3f6.cdc81a422f22cb50dff619aa6fa4e34b"},{"comment":"","message":"My Tasks","code":"PAR_DASHBOARD.a0c8d6422f22cb50dff619aa6fa4e3f6.cdc81a422f22cb50dff619aa6fa4e34b"}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-08 12:04:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cdc81a422f22cb50dff619aa6fa4e34b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Collection Tracker" source="x_2129719_collec_0">b1bedd642f56c390dff619aa6fa4e342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">b1bedd642f56c390dff619aa6fa4e342</sys_scope>
+        <sys_update_name>par_dashboard_widget_cdc81a422f22cb50dff619aa6fa4e34b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-08 12:04:34</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <widget_props/>
+        <x>0</x>
+        <y>3</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Collection Tracker">b1bedd642f56c390dff619aa6fa4e342</application>
+        <file_path/>
+        <instance_id>305a28e3eb71c7105a2dfceacad0cdef</instance_id>
+        <instance_name>dev424909</instance_name>
+        <name>par_dashboard_widget_cdc81a422f22cb50dff619aa6fa4e34b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">a0c8d6422f22cb50dff619aa6fa4e3f6</canvas><component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component><component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Collection Item","sourceType":"table","tableOrViewName":"x_2129719_collec_0_collection_item","filterQuery":"","id":"tablex_2129719_collec_0_collection_item1786190667820","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"My Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"tablex_2129719_collec_0_collection_item1786190667820","id":"tablex_2129719_collec_0_collection_item17861906678201786190667878","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"filterConfigurations":[],"noDebounce":"","contextMenuActions":[]}</component_props><h>9</h><name/><required_translations>[{"comment":"","message":"Collection Item","code":"PAR_DASHBOARD.a0c8d6422f22cb50dff619aa6fa4e3f6.cdc81a422f22cb50dff619aa6fa4e34b"},{"comment":"","message":"My Tasks","code":"PAR_DASHBOARD.a0c8d6422f22cb50dff619aa6fa4e3f6.cdc81a422f22cb50dff619aa6fa4e34b"}]</required_translations><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-08 12:04:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cdc81a422f22cb50dff619aa6fa4e34b</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Collection Tracker" source="x_2129719_collec_0">b1bedd642f56c390dff619aa6fa4e342</sys_package><sys_policy/><sys_scope display_value="Collection Tracker">b1bedd642f56c390dff619aa6fa4e342</sys_scope><sys_update_name>par_dashboard_widget_cdc81a422f22cb50dff619aa6fa4e34b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-08 12:04:34</sys_updated_on><visualization/><w>16</w><widget_props/><x>0</x><y>3</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>945828763</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>86718f352f664b50dff619aa6fa4e374</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-08 12:04:34</sys_created_on>
+        <sys_id>55c81a422f22cb50dff619aa6fa4e3d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19fe142baf00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-08 12:04:34</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>d5c81a42e922cb507269339ba301eb4e</update_guid>
+        <update_guid_history>d5c81a42e922cb507269339ba301eb4e:945828763</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">16d81e422f22cb50dff619aa6fa4e3ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-08 12:04:54</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>06675a5bde124450808da5e0601a3240</sys_id>
+        <sys_metadata>cdc81a422f22cb50dff619aa6fa4e34b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Collection Tracker" source="x_2129719_collec_0">b1bedd642f56c390dff619aa6fa4e342</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">b1bedd642f56c390dff619aa6fa4e342</sys_scope>
+        <sys_scope_delete display_value="">0dea9a61146d4fea83b223572beed124</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_cdc81a422f22cb50dff619aa6fa4e34b</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_cdc81a422f22cb50dff619aa6fa4e34b">55c81a422f22cb50dff619aa6fa4e3d8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-08 12:04:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
