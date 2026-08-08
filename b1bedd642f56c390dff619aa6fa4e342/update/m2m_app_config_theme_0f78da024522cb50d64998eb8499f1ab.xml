@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-08 12:03:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f78da024522cb50d64998eb8499f1ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Collection Tracker" source="x_2129719_collec_0">b1bedd642f56c390dff619aa6fa4e342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">b1bedd642f56c390dff619aa6fa4e342</sys_scope>
+        <sys_update_name>m2m_app_config_theme_0f78da024522cb50d64998eb8499f1ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-08 12:03:28</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="Collection Tracker Workspace App Config">0378da022422cb50885e85bd8f0a73ad</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

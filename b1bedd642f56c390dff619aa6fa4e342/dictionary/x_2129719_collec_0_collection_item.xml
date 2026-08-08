@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="4172692c2f56c390dff619aa6fa4e3f1" label="Collection Item" max_length="40" name="x_2129719_collec_0_collection_item" type="collection">
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="4172692c2f56c390dff619aa6fa4e3f1" label="Collection Item" max_length="40" name="x_2129719_collec_0_collection_item" text_index="true" type="collection">
         <element label="Date purchased" max_length="40" name="date_purchased" type="glide_date"/>
         <element label="Description" max_length="4000" name="description" type="string"/>
         <element display="true" label="Item" max_length="150" name="item" type="string"/>
